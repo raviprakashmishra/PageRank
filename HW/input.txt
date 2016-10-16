@@ -1,0 +1,68 @@
+
+
+<page>
+    <title>AfghanistanCommunications</title>
+    <ns>0</ns>
+    <id>18</id>
+    <redirect title="Communications in Afghanistan" />
+    <revision>
+      <id>74466499</id>
+      <parentid>15898952</parentid>
+      <timestamp>2006-09-08T04:14:42Z</timestamp>
+      <contributor>
+        <username>Rory096</username>
+        <id>750223</id>
+      </contributor>
+      <comment>cat rd</comment>
+      <text xml:space="preserve">#REDIRECT [[Communications in Afghanistan]]  [[Communications in India|Separate pipe]]           [[afghan]] {{R from CamelCase}}
+      </text>
+      <sha1>2gt5g76thwz1sgiig4ju2qz3r2qvwko</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+        
+</page>
+
+<page>
+    <title>Communications in India</title>
+    <ns>0</ns>
+    <id>13</id>
+    <redirect title="History of Afghanistan" />
+    <revision>
+      <id>74466652</id>
+      <parentid>15898948</parentid>
+      <timestamp>2006-09-08T04:15:52Z</timestamp>
+      <contributor>
+        <username>Rory096</username>
+        <id>750223</id>
+      </contributor>
+      <comment>cat rd</comment>
+      <text xml:space="preserve">#REDIRECT [[History of Afghanistan]] {{R from           CamelCase}}
+        </text>
+      <sha1>d4tdz2eojqzamnuockahzcbrgd1t9oi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+</page>
+<page>
+    <title>Communications in Afghanistan</title>
+    <ns>0</ns>
+    <id>14</id>
+    <redirect title="Geography of Afghanistan" />
+    <revision>
+      <id>407008307</id>
+      <parentid>74466619</parentid>
+      <timestamp>2011-01-10T03:56:19Z</timestamp>
+      <contributor>
+        <username>Graham87</username>
+        <id>194203</id>
+      </contributor>
+      <minor />
+      <comment>1 revision from [[:nost:AfghanistanGeography]]: import old edit,          see [[User:Graham87/Import]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Geography of Afghanistan]] {{R from        CamelCase}}</text>
+      <sha1>0uwuuhiam59ufbu0uzt9lookwtx9f4r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+ 
